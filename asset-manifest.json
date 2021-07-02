@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/button-project/static/css/main.a26a4590.chunk.css",
+    "main.js": "/button-project/static/js/main.1b798a29.chunk.js",
+    "main.js.map": "/button-project/static/js/main.1b798a29.chunk.js.map",
+    "runtime-main.js": "/button-project/static/js/runtime-main.102c70bc.js",
+    "runtime-main.js.map": "/button-project/static/js/runtime-main.102c70bc.js.map",
+    "static/js/2.dbe2b6a2.chunk.js": "/button-project/static/js/2.dbe2b6a2.chunk.js",
+    "static/js/2.dbe2b6a2.chunk.js.map": "/button-project/static/js/2.dbe2b6a2.chunk.js.map",
+    "static/js/3.9fe62ccc.chunk.js": "/button-project/static/js/3.9fe62ccc.chunk.js",
+    "static/js/3.9fe62ccc.chunk.js.map": "/button-project/static/js/3.9fe62ccc.chunk.js.map",
+    "index.html": "/button-project/index.html",
+    "static/css/main.a26a4590.chunk.css.map": "/button-project/static/css/main.a26a4590.chunk.css.map",
+    "static/js/2.dbe2b6a2.chunk.js.LICENSE.txt": "/button-project/static/js/2.dbe2b6a2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/button-project/static/media/blob.d0e14140.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.102c70bc.js",
+    "static/js/2.dbe2b6a2.chunk.js",
+    "static/css/main.a26a4590.chunk.css",
+    "static/js/main.1b798a29.chunk.js"
+  ]
+}
